@@ -1,6 +1,7 @@
-## Hi there 👋
+## Julia Goldman Bergmann's README
 
-### I am curently a 6th Semester student at Mohawk College
+### Student at Mohawk College
+Computer Systems Technology - Network Administration and Cybersecurity
 
 <!--
 **jgb-mhk/jgb-mhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
