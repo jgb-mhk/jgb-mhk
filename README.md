@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I am curently a 6th Semester student at Mohawk College
+
 <!--
 **jgb-mhk/jgb-mhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
